@@ -1,0 +1,9 @@
+gradio>=3.30
+transformers>=4.30
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.3
+torch   # CPU version; HF Spaces will select right build if needed
+scikit-learn
+numpy
+pandas
+python-multipart
