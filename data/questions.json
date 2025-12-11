@@ -1,6 +1,6 @@
 [
-  {"role":"SDE", "tag":"tech", "text":"Explain how you would design a URL shortener."},
-  {"role":"SDE", "tag":"behavioral", "text":"Tell me about a time you handled a difficult bug."},
-  {"role":"Product Manager", "tag":"product", "text":"How would you improve the onboarding experience for our mobile app?"},
+  {"role":"SDE", "tag":"tech", "text":"Design a URL shortener. Discuss data model and scaling."},
+  {"role":"SDE", "tag":"behavioral", "text":"Tell me about a time you fixed a production bug."},
+  {"role":"Product Manager", "tag":"product", "text":"How would you improve onboarding for a new user?"},
   {"role":"Consulting", "tag":"estimation", "text":"Estimate the market size for electric scooters in India."}
 ]
