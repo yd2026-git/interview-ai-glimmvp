@@ -1,0 +1,123 @@
+Sr. No.	Interview Questions
+1	Tell me about yourself.
+2	Why do you prefer this role ?
+3	About the experience, achievements
+4	What do you expect from this role?
+5	Consulting case study - new market strategy
+6	Debt and equity instruments
+7	About the club president and how do you manage a team
+8	Prefer travelling or not
+9	Any questions or not
+10	Location preferences
+11	Where do you see yourself in 10 years?
+12	Details about internship
+13	About big achievement in job ?
+14	Tell me where you solved a problem in your work?
+15	How will you contribute to the roll?
+16	Are you open for learning?
+17	Dont you think you are fit for this role being a marketing guy?
+18	Major and minors cast study- online entry of a product. how can i analyse analytically and propose strategies ?
+19	Why are you fit for this role ?
+20	"Internship
+projects
+case based question
+ project management
+ casebusiness framework you know"
+21	Do you think you will be able to understand the technicality part and apply that in the projects?
+22	Location preferences if any.
+23	Work ex - role and responsibilities
+24	Academic project- finance and erp both
+25	What do i know about erp and sap
+26	Do you have any hands on experience in technical skills like c python java
+27	Power bi skills
+28	Certifications
+29	Major minor
+30	Why this role if you are having finance as majors
+31	Tmaywork ex related questionswhy sap rolep&l appropriation accounthow to find a document from ecc to s4 hana
+32	Explain 15% roi in my internship
+33	What campaigns did you do in internship
+34	Where did you apply risk management?
+35	Inbound marketing
+36	Your are inclides towards sales?
+37	Majors and minors?
+38	Why this role?
+39	What do you know about this compny?
+40	Everything about internship , internship experience
+41	Certifications - six sigma tools in it
+42	Extra curriculars
+43	Any technical tool knowledge
+44	Financial ratios
+45	Mutual funds analysis
+46	Micro-economics project
+47	Situation based question
+48	3) are you interested in presales?
+49	accounting standards,how to value inventory
+50	Resume based explain your role in your previous company power bi related how did i use it to create value certifications location constraints
+51	Tmayresume based explain your role in your previous companyhow power bi worksdata modelling location preference
+52	Tell me about your background, where do you come from
+53	If you get a chance to talk anything for half in your life nonstop what would it be
+54	What do you say your adaptable
+56	Dived deep into experiences and learnings of extra cirrucular activities, volunteering activities
+57	Do u beleive in giving advice to people in professional space
+58	Something that is not there in your resume
+59	How much do you enjoy coding- will you be able to cope with technical work but with business acumen
+60	How do you spend your time here
+61	How do you carry forward your life learnings
+62	What do you do when you see someone is not behaving according to your moral values in professional space
+63	Explain academic projects -resume based 1- profile marketing driven, why in analytics 2- rfp process and experience -you worked on qualitative data, sure you aligned with role -majors and minors(follow up question that analytics is none your major or minor)-case question :- launch of a product, tell basic framework -explain powerbi kpis-any location constraints
+64	-tmay-what were roles professional work experience-why change from metal & mining sector to automobile-anything outside of your resume-what you know about data analytics, application. -steps you would follow once receive the dataset-clustering and how you did in your classroom case study-q&a( location, roles, responsibilities)
+65	- why are you interested in joining this role and how are you aligning yourself with the jd?
+66	- ⁠explain where have you used data analytics- ⁠tell me about a campaign case base questions:- while they already have proper sports equipment business in place, aerobics business for children is a good idea?
+67	 - ⁠offline wholesale business in 5 major cities now they want to launch it online. - ⁠any questions for me
+68	⁠you have mentioned data modelling in your key skills, how did you apply it
+69	⁠give an example of a time you did strategic thinking
+70	⁠do you think you are aligned to the role, how
+71	⁠what is sql, primary key, outer join
+72	⁠location preference
+73	Tell me about yourself.
+74	How did your kpi dashboards influence business performance decisions?
+75	Are you interested in analytics?
+76	Explain the analytics academic project.
+77	How would you approach if the client comes to you with the requirement of launching a new product?
+78	How would you explain to client the financial benefits of migrating data from oracle to cloud?
+79	How much are you interested for the role?
+80	Since you were a cricket team captain, tell me how would you explain to players when they are not selected in the final playing team?
+81	Is there any location constraint?
+82	Any questions you have on the role?
+83	⁠why you think power bi is better than excel?
+84	⁠do you have any location preference
+85	⁠explain inner join and left join in sql?
+86	Case study on profitability.assume that i am a developer and want to increase my revenue from 1000cr to 10000cr also i want to invest in countries that have somewhat relaxed regulation and strong purchasing power.
+87	Subjects in mba.
+88	How can you bring in the customers or the clients if you have to for infosys
+89	So since you mentioned being a commerce student you have taken analytics as major how will you compete with everyone
+90	Any tools with which you worked
+91	Who all are there in family
+92	Go through your work experience briefly
+93	What do you know about this role
+94	⁠prompt engineering
+95	Could you talk for about a minute or two on any of the topics you are most passionate about - personal/professional/technical anything.
+96	You previously worked in the it sector, why do you want to come back to the same sector by applying for infosys.
+97	Do you observe any difference in the work that you used to perform earlier and after pursuing mba. what change?
+98	How is it beneficial?
+99	Technical questions based on certificates, how your knowledge will impact clients
+100	Case study based on data analysis           i have 5 offline apparel stores, in five different major cities. what data you will focus on and how will you work with this data if i want to expand my business from tier 1 to tier 2 cities and want to migrate from offline to online business. expected data based strategic approach that can be implemented.
+101	-tmay -tell me about workex -live project -how power bi dashboard made a impact in workex?
+102	-what is etl ?
+103	How you have implemented?
+104	-your prevoius profile was  associate consultant , why you want go again in same role?
+105	-agile advantaged over waterfall methodology?
+106	-some python , sql questions?
+107	 - how data is going to impact with rise of ai?
+108	-awareness about roles and responsibility?
+109	-any questions for me?
+110	Tmayresume based explain your role in your previous companywhat systems were used in your previous company
+111	⁠what is risk assessment and how was it done in my previous role
+112	⁠knowledge of programming languages
+113	⁠explain lean manufacturing and how was it used in the project
+114	Why this course
+115	Why hyd to gurgaon
+116	Which module you want to work on
+117	How was exp with deloitte
+118	Why move from deloitte role to sap
+119	Role in deloitte
